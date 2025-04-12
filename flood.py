@@ -21,10 +21,10 @@ import random
 import secrets
 
 
-from email.message import EmailMessage
+from email.message import blahblahblah@outlook.com
 
 
-def email_inbox(reciver_email):
+def email_inbox(nickrags119@gmail.com):
     """
     Sends (or floods) the reciver E-Mail.
     """
